@@ -3,7 +3,6 @@ class SolrAT4104 < Formula
   homepage "https://lucene.apache.org/solr/"
   url "https://www.apache.org/dyn/closer.cgi?path=lucene/solr/4.10.4/solr-4.10.4.tgz"
   mirror "https://archive.apache.org/dist/lucene/solr/4.10.4/solr-4.10.4.tgz"
-  sha256 "2bbe3a55976f118c5d8c2382d4591257f6e2af779c08c6561e44afa3181a87c1"
 
   bottle :unneeded
 
